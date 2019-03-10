@@ -1,7 +1,7 @@
-#:airplane:Step Inside Japan :airplane:
+# :airplane:Step Inside Japan :airplane:
 ### Brandon Larrabee
-###Geography 371: Web Mapping
-#####Description
+### Geography 371: Web Mapping
+##### Description
 
 A repository created for the final project of Geography:361 Web Mapping offered at Oregon State University. The project was to find an interactive web map to critique and present to the class. The map can be found at [Step Inside Japan](https://www.insideasiatours.com/step-inside/japan-location/CAoSLEFGMVFpcE1ZSG41SnZvNTJIU0M1ajFISlRwMGNOS2dFc0s0Ymx5QmFpejdE)
 <br>
